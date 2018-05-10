@@ -1,0 +1,6 @@
+framework module WSLHTMLEntities {
+  umbrella header "WSLHTMLEntities-umbrella.h"
+
+  export *
+  module * { export * }
+}
